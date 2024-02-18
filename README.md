@@ -1,5 +1,9 @@
 # Baıandaý
 
+
+https://github.com/XZIPX/Baianday/assets/96609166/fc3d07b4-5b4c-42ab-ba38-e083f74695ad
+
+
 Baıandaý is a creative project that blends the power of machine learning with the art of storytelling. This project utilizes two models: one for detecting objects in an image and another, a Large Language Model (LLM), for generating a story based on the detected scenario. It offers a unique way to transform simple images into engaging narratives.
 
 ## Features
@@ -25,7 +29,7 @@ Baıandaý is a creative project that blends the power of machine learning with 
 
 Clone the repository and install the required packages:
 ```bash
-git clone [<repository-url>](https://github.com/XZIPX/Baianday)
+git clone https://github.com/XZIPX/Baianday
 cd <repository-directory>
 pip install -r requirements.txt
 ```
