@@ -25,7 +25,7 @@ Baıandaý is a creative project that blends the power of machine learning with 
 
 Clone the repository and install the required packages:
 ```bash
-git clone <repository-url>
+git clone [<repository-url>](https://github.com/XZIPX/Baianday)
 cd <repository-directory>
 pip install -r requirements.txt
 ```
